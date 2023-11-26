@@ -57,8 +57,8 @@ Config = {
         CenterStatuses = true,
     },
     Default = {
-        ServerLogo = "https://esx.s3.fr-par.scw.cloud/blanc-800x800.png",
+        ServerLogo = "https://cdn.discordapp.com/attachments/967905287673618512/1071688074444161084/CP__5_-removebg-preview_-_Copy.png?ex=6575634b&is=6562ee4b&hm=5e7e72b12d4dbc2a58a653c27c88ba450ba96f17cd10eabb39f21436be2dabc0&",
         Kmh = false,
-        PassengerSpeedo = false, -- if this true , you can see speedometer if you don't driver
+        PassengerSpeedo = true, -- if this true , you can see speedometer if you don't driver
     },
 }
